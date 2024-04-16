@@ -12,7 +12,7 @@ Leadership and collaboration are at the core of my professional ethos. As staff 
 
 With a multifaceted skill set that spans technical development, design principles, educational proficiency, and team management, I'm excited about the opportunities to contribute to innovative projects and collaborate with forward-thinking teams.
 
-- 🌱 I’m currently learning: machine learning for image recognition problems
+- 🌱 I’m currently learning: machine learning for image recognition problems, CI/CD, cloud computing
 - 💡 I love innovation and new technologies.
 - 🎯 I’m focusing on building startup projects
 - 🤝 I’m looking for help to train models on typeface recognition and on recognizing layout patterns
