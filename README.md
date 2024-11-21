@@ -1,5 +1,12 @@
 # Hello, I'm Soma! 👋
 
+<div align="left">
+  <a href="SomaHargitai_CV_20241121.MD">
+    <img src="https://img.shields.io/badge/-View_CV-4285F4?style=flat-square&logo=markdown&logoColor=white"/>
+  </a>
+
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate Fullstack Software Engineer with a knack for solving complex problems and building scalable software solutions. With a background in Mathematics & Software Engineering I've honed my skills in languages like Java, C#, Matlab, Python, Node.JS with most-wanted technologies like Typescript, React, Cloud Computing etc. I am always eager to learn more and take on new challenges.
