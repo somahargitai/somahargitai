@@ -1,7 +1,7 @@
 # Soma Hargitai
 
 <div align="left">
-  <a href="SomaHargitai_CV_20241121.pdf" download>
+  <a href="SomaHargitai_CV_20241121.PDF" download>
     <img src="https://img.shields.io/badge/-View_PDF-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
