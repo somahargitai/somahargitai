@@ -28,10 +28,10 @@ With a multifaceted skill set that spans technical development, design principle
 
 - **Management:** Agile Methodologies, Scrum, Kanban, mentoring
 - **Mathematics:** Linear Algebra, Calculus, Probability & Statistics
-- **Languages:** Python, JavaScript, TypeScript, Java, C#, MATLAB
-- **Frameworks / Libraries:** React, Node.js, Express, Vue.js, .NET, Spring Boot
-- **Tools & Technologies:** Git, Docker, AWS, CI/CD
-- **Databases:** MongoDB, PostgreSQL, GraphQL
+- **Languages:** Python, JavaScript, TypeScript, Node.js, Java, C#, MATLAB
+- **Frameworks / Libraries:** React, Express, Vue.js, .NET, Spring
+- **Tools & Technologies:** Git, Docker, AWS, Azure, CI/CD
+- **Databases:** MongoDB, PostgreSQL, GraphQL, gRPC
 
 ## 💼 Projects
 
