@@ -49,4 +49,4 @@ In **Wineconx** I worked on smart social media marketing tools. I mentored junio
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Soma Hargitai LinkedIn](https://www.linkedin.com/in/soma-hargitai-48876b97/)
+- **LinkedIn:** [Soma Hargitai LinkedIn](https://www.linkedin.com/in/somahargitai/)

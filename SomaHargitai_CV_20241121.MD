@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://github.com/somahargitai"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/soma-hargitai-48876b97"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/somahargitai/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
 </div>
 
 ---
