@@ -33,15 +33,41 @@ With a multifaceted skill set that spans technical development, design principle
 - **Tools & Technologies:** Git, Docker, AWS, Azure, CI/CD
 - **Databases:** MongoDB, PostgreSQL, GraphQL, gRPC
 
-## 💼 Projects
+## 💼 Projects and Jobs
 
-I am proud of working on **General Electric**'s [First Pass Yield project](https://youtu.be/8zS5vb8QdP0?si=bp3iEeu2MHfnbs8c). My team automated the process of data collection and analysis on the shop floor, making the quality control process of turbine blades more efficient and accurate. This project was followed by others, saving the company hundreds of thousands of dollars.
+🔴 I am proud of working on **General Electric**'s [First Pass Yield project](https://youtu.be/8zS5vb8QdP0?si=bp3iEeu2MHfnbs8c). My team automated the process of data collection and analysis on the shop floor, making the quality control process of turbine blades more efficient and accurate. This project was followed by others, saving the company hundreds of thousands of dollars.
 
-As developer at **IX** (Epam) I created Business Intelligence dashboards for the company's clients Procter & Gamble and Under Armour. The dashboards were built using Tableau, Power BI and Spotfire, and provided insights on sales, marketing, and customer behavior. This was essential for the companies to make data-driven decisions and to optimize their business strategies.
+🔴 As developer at **IX** (Epam) I created Business Intelligence dashboards for the company's clients Procter & Gamble and Under Armour. The dashboards were built using Tableau, Power BI and Spotfire, and provided insights on sales, marketing, and customer behavior. This was essential for the companies to make data-driven decisions and to optimize their business strategies.
 
-In **Linearity / Vectornator** I worked on the development of Linearity Curve's backend infrastructure. Providing a robust API for the app's features, I helped the team to scale the app and to improve its performance.
+🔴 In **Linearity / Vectornator** I worked on the development of Linearity Curve's backend infrastructure. Providing a robust API for the app's features, I helped the team to scale the app and to improve its performance.
 
-In **Wineconx** I worked on smart social media marketing tools. I mentored junior colleagues, introducing new technologies and best practices, while I was also the one who comes up with new feature ideas, implementing the basics and then guiding the team to contribute.
+🔴 In **Wineconx** I worked on smart social media marketing tools. I mentored junior colleagues, introducing new technologies and best practices, while I was also the one who comes up with new feature ideas, implementing the basics and then guiding the team to contribute.
+
+## 💼 Pet Projects and Project Ideas
+
+These are own project ideas that I would like to work on in the future or already working on. Feel free to contact me if you want to collaborate.
+
+🔴 **Baduk Tulkku** - a simple, self-hosted platform for playing Go (Baduk) with friends. Main goal is to let people play Go online with friends, be able to play live and continue playing later. Automatic evaluation of the game is also a goal. Possible additional improvement can be to connect the platform to KataGo.
+
+🔴 **Uncle Oscar** - a platform for sharing family photos, stories and memories. The goal is to create a free NextJS app which anyone can host on their own server. The administrator can add family members as users and let them share family memories, tag people on photos, add comments, etc. Some functionalities are availabe in a facebook group, but to keep the family memories private and have a better user experience, a dedicated platform is needed.
+
+🔴 **Personal Website** - A quite obvious project, but I still did not have the time to create it.
+
+🔴 **Better Media** - a platform to provide a better landing page for readers of Hungarian media. Due to the social media boom and the sad situation of the Hungarian media, the UX experience of news websites are not good. Typical problems are:
+
+- The Wordpress engine only provides sequential reading (WP blog) and useless widgets, like "most popular articles". It makes it uncomfortable to find the most important articles, most likely the important one from the last week.
+- Menu of columns is not easy to navigate. Articles may not be categorized, the categories are not very good, smart tagging is not possible.
+- UI is blog-like, which is not good for the UX experience.
+- UI is not like a classical newspaper, does not provide an overview of the most important articles, also prioritizing them with size, color, etc.
+- Contemporary media is heavily personalized. Still, news media UIs are not emphasizing who is writing the article. I would like to provide author photos for all articles, article search by author, top articles by author, etc.
+
+Ideas on implementation:
+
+- a general landing page, with a selection of the most important articles from the last week.
+- separate improved UI for all the news websites, demonstrating how they could be improved.
+- possibility to subscribe to authors and and columns, have a dashboard for the readers about the articles they subscribed to, refreshing it with unread articles. Priorizing the most important articles by size, intro length, place in the layout, etc.
+
+🔴 **German Language Learning** - I am learning German language and I want PWA to help me. I want to be able to fill in the vocabulary and have practice sentences, grammar exercises, etc.
 
 ## 📈 Stats on 2023 contributions
 
