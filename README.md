@@ -51,7 +51,7 @@ These are own project ideas that I would like to work on in the future or alread
 
 🔴 **Uncle Oscar** - a platform for sharing family photos, stories and memories. The goal is to create a free NextJS app which anyone can host on their own server. The administrator can add family members as users and let them share family memories, tag people on photos, add comments, etc. Some functionalities are availabe in a facebook group, but to keep the family memories private and have a better user experience, a dedicated platform is needed.
 
-🔴 **Personal Website** - A quite obvious project, but I still did not have the time to create it.
+🔴 **Personal Website** - A [site](https://www.hargitaisoma.hu/) to introduce myself and play with design, technologies, visual representation of my skills.
 
 🔴 **Better Media** - a platform to provide a better landing page for readers of Hungarian media. Due to the social media boom and the sad situation of the Hungarian media, the UX experience of news websites are not good. Typical problems are:
 
