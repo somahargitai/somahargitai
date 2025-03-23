@@ -2,7 +2,11 @@
 
 <div align="left">
   <a href="SomaHargitai_CV.pdf" download>
-    <img src="https://img.shields.io/badge/-View_PDF-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-View_PDF of this CV-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+
+  <a href="SomaHargitai_CV_short.pdf" download>
+    <img src="https://img.shields.io/badge/-View_Short and Nice CV_PDF-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
 
@@ -37,7 +41,7 @@
 - Built an AI-powered content generation tool for the marketing team, streamlining the creation of personalized social media posts and comments, reducing manual writing effort by 10+ hours per campaign.
 - Engineered a scalable web scraping infrastructure to automate influencer content extraction, leveraging AI to identify the most relevant posts for marketing campaigns.
 - Mentored and trained two junior engineers, equipping them with expertise in the MERN stack and OpenAI API, coding best practices, and soft skills—accelerating their growth into competent full-stack developers.
-- Led weekly collaboration sessions with stakeholders and the marketing team, iterating on product features to align with business objectives and user needs, ensuring continuous platform improvement.\n
+- Led weekly collaboration sessions with stakeholders and the marketing team, iterating on product features to align with business objectives and user needs, ensuring continuous platform improvement.
 
 ### 🎨 Linearity / Vectornator | Senior Fullstack Developer  
 
