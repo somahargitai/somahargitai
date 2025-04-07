@@ -42,6 +42,7 @@ With a multifaceted skill set that spans technical development, design principle
 🔴 In **Linearity / Vectornator** I worked on the development of Linearity Curve's backend infrastructure. Providing a robust API for the app's features, I helped the team to scale the app and to improve its performance.
 
 🔴 In **Wineconx** I worked on smart social media marketing tools. I mentored junior colleagues, introducing new technologies and best practices, while I was also the one who comes up with new feature ideas, implementing the basics and then guiding the team to contribute.
+
 ## 💼 Pet Projects and Project Ideas
 
 These are own project ideas that I would like to work on in the future or already working on. Feel free to contact me if you want to collaborate.
@@ -53,7 +54,6 @@ These are own project ideas that I would like to work on in the future or alread
 🧩 **Baduk Tulkku** - a simple, self-hosted platform for playing Go (Baduk) with friends. Main goal is to let people play Go online with friends, be able to play live and continue playing later. Automatic evaluation of the game is also a goal. Possible additional improvement can be to connect the platform to KataGo.
 
 👨‍👩‍👧‍👦 **Uncle Oscar** - a platform for sharing family photos, stories and memories. The goal is to create a free NextJS app which anyone can host on their own server. The administrator can add family members as users and let them share family memories, tag people on photos, add comments, etc. Some functionalities are availabe in a facebook group, but to keep the family memories private and have a better user experience, a dedicated platform is needed.
-
 
 📰 **Better Media** - a platform to provide a better landing page for readers of Hungarian media. Due to the social media boom and the sad situation of the Hungarian media, the UX experience of news websites are not good. Typical problems are:
 
