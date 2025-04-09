@@ -4,6 +4,9 @@
   <a href="SomaHargitai_CV.MD">
     <img src="https://img.shields.io/badge/-View_CV-4285F4?style=flat-square&logo=markdown&logoColor=white"/>
   </a>
+  <a href="https://www.hargitaisoma.hu/">
+    <img src="https://img.shields.io/badge/-HargitaiSoma.hu-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
 
 </div>
 
