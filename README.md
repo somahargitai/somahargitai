@@ -2,13 +2,12 @@
 
 <div align="left">
   <a href="SomaHargitai_CV.MD">
-    <img src="https://img.shields.io/badge/-View_CV-4285F4?style=flat-square&logo=markdown&logoColor=white"/>
-  </a>  
+    <img src="https://img.shields.io/badge/-View_CV or download in PDF-4285F4?style=flat-square&logo=markdown&logoColor=white"/>
+  </a>
   <br />  
   <a href="https://www.hargitaisoma.hu/">
-    <img src="https://img.shields.io/badge/-HargitaiSoma.hu-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HargitaiSoma.hu-FF5722?style=flat-square&logo=jenkins&logoColor=white"/>
   </a>
-
 </div>
 
 ## 🚀 About Me

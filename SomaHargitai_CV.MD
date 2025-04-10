@@ -1,18 +1,21 @@
 # Soma Hargitai
 
 <div align="left">
-  <a href="SomaHargitai_CV.pdf" download>
-    <img src="https://img.shields.io/badge/-View_PDF of this CV-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
-  </a>
-
   <a href="SomaHargitai_CV_short.pdf" download>
-    <img src="https://img.shields.io/badge/-View_Short and Nice CV_PDF-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PDF for recruiters-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
+  </a>
+  
+  <a href="SomaHargitai_CV.pdf" download>
+    <img src="https://img.shields.io/badge/-PDF of this detailed markdown CV-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
 </div>
 
 ### Software Engineer | [hargitai.soma@gmail.com](mailto:hargitai.soma@gmail.com)
 
 <div align="left">
+  <a href="https://www.hargitaisoma.hu/">
+    <img src="https://img.shields.io/badge/-HargitaiSoma.hu-FF5722?style=flat-square&logo=jenkins&logoColor=white"/>
+  </a>
   <a href="https://github.com/somahargitai"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
   <a href="https://www.linkedin.com/in/somahargitai/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
 </div>
