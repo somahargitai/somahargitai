@@ -22,10 +22,10 @@ Leadership and collaboration are at the core of my professional ethos. As tech l
 
 With a multifaceted skill set that spans technical development, design principles, educational proficiency, and team management, I'm excited about the opportunities to contribute to innovative projects and collaborate with forward-thinking teams.
 
-- 🌱 I’m currently learning: machine learning for image recognition problems, CI/CD, cloud computing, German language, system design, opportunities of using LLM in software development, product management, Augmented Reality development with Unity
+- 🌱 I'm currently learning: Getting the maximum out of AI agents, machine learning for image recognition problems, CI/CD, cloud computing, German language, system design, product management, Augmented Reality development with Unity
 - 💡 I love innovation and new technologies.
-- 🎯 I’m focusing on building new projects from scratch
-- 🤝 I’m looking for help on typography and vector graphics problems: train models on typeface recognition, recognizing layout patterns, creating new typefaces with code, analyzing type shapes with code to identify characteristics.
+- 🎯 I'm focusing on building new projects from scratch
+- 🤝 I'm looking for help on typography and vector graphics problems: train models on typeface recognition, recognizing layout patterns, creating new typefaces with code, analyzing type shapes with code to identify characteristics.
 
 ## 🛠 Skills
 

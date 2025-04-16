@@ -24,6 +24,100 @@
 
 ## 💼 Experience
 
+```mermaid
+mindmap
+  root((SOMA))
+    Frontend Development
+      Frameworks
+        React
+        Vue.js
+        Angular
+      Styling
+        CSS/SCSS
+        Material UI
+        Responsive Design
+        Radix
+        Shadcn UI
+      State Management
+        Redux
+        Context API
+      Web Technologies
+        HTML5
+        JavaScript/TypeScript
+      Component Development
+        Storybook
+    Backend Development
+      Java & Spring
+      Node.js
+        Express
+        NestJS
+      C#
+        .NET
+      API Design
+        REST
+        GraphQL
+        gRPC
+    Database
+      NoSQL
+        MongoDB
+        DynamoDB
+      SQL
+        PostgreSQL
+        MySQL
+      Query Languages
+        GraphQL
+    DevOps & Infrastructure
+      Cloud Platforms
+        AWS
+        Azure
+      Containerization
+        Docker
+      CI/CD
+        GitHub Actions
+        Jenkins
+      Version Control & Collaboration
+        Git
+          Branching Strategies
+          Code Reviews
+          Pull Requests
+          GitHub
+          Issue Tracking
+          CI/CD Pipelines
+        Monorepo Management
+          Nx
+          Lerna
+    Design & UX
+      Typography
+      UI/UX Design
+      Layout Design
+      Adobe Suite
+      Figma/Webflow
+    Mathematics & Algorithms
+      Linear Algebra
+      Calculus
+      Statistics
+      Number Theory
+    Leadership
+      Team Management
+      Mentoring
+      Agile Methodologies
+        Scrum
+        Kanban
+      Technical Planning
+    AI & Data
+      OpenAI Integration
+      Data Visualization
+        Tableau
+        Power BI
+        D3
+        Highcharts
+      ETL Processes
+      Analytics Implementation
+      AI-Assisted Development
+        GitHub Copilot
+        Cursor AI
+```
+
 ### 🍷 WineConX | Tech Lead
 
 *2022 - 2024*
@@ -139,7 +233,7 @@
   - Mentored aspiring developers in modern web development, guiding them through their first real-world projects and helping them build foundational skills.
   - Provided technical support and career guidance, ensuring participants successfully completed projects in JavaScript, React, and full-stack development.
   - Conducted code reviews, debugging sessions, and best practice workshops, accelerating learners' technical proficiency and confidence.
-  - Contributed to TechLabs’ mission of bridging the digital skills gap, fostering a collaborative and inclusive tech community.
+  - Contributed to TechLabs' mission of bridging the digital skills gap, fostering a collaborative and inclusive tech community.
 
 - **Metropolia University - Project Mentor** *(2024 - 2024)*
 
