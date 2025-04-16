@@ -47,7 +47,7 @@ mindmap
       Component Development
         Storybook
     Backend Development
-      Java & Spring
+      Java and Spring
       Node.js
         Express
         NestJS
@@ -66,7 +66,7 @@ mindmap
         MySQL
       Query Languages
         GraphQL
-    DevOps & Infrastructure
+    DevOps and Infrastructure
       Cloud Platforms
         AWS
         Azure
@@ -75,7 +75,7 @@ mindmap
       CI/CD
         GitHub Actions
         Jenkins
-      Version Control & Collaboration
+      Version Control and Collaboration
         Git
           Branching Strategies
           Code Reviews
@@ -92,7 +92,7 @@ mindmap
       Layout Design
       Adobe Suite
       Figma/Webflow
-    Mathematics & Algorithms
+    Mathematics and Algorithms
       Linear Algebra
       Calculus
       Statistics
@@ -104,7 +104,7 @@ mindmap
         Scrum
         Kanban
       Technical Planning
-    AI & Data
+    AI and Data
       OpenAI Integration
       Data Visualization
         Tableau
