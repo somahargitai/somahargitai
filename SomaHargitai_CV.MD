@@ -86,7 +86,7 @@ mindmap
         Monorepo Management
           Nx
           Lerna
-    Design & UX
+    Design and UX
       Typography
       UI/UX Design
       Layout Design
