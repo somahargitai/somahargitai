@@ -32,17 +32,17 @@ Beyond coding, I mentor developers, lead technical strategy, and bring a deep un
 
 ## Featured Projects
 
-### 🧩 [nvolt](https://github.com/somahargitai/nvolt)
+### 🧩 [nvolt](https://nvolt.raptofu.com/)
 >
 > RAG-based AI tool for document and website knowledge extraction.  
 Built with LangChain, FastAPI, OpenAI API, and pgvector.
 
-### 📸 [Uncle Oscar App](https://github.com/somahargitai/uncle-oscar)
+### 📸 Uncle Oscar App
 >
 > Family-only photo and story-sharing app (Next.js, TypeScript, MongoDB, AWS).  
 Planned as an open-source SaaS template.
 
-### 🎨 [Comic Sense Studio](https://www.comicsense.de)
+### 🎨 [Comic Sense Studio](https://comicsense.de/)
 >
 > AR/VR and AI-integrated creative platforms for design and storytelling.
 
