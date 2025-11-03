@@ -5,7 +5,7 @@
 📍 Berlin, Germany  
 
 <div align="left">
-  <a href="SomaHargitai_CV_short.pdf" download>
+  <a href="Soma_Hargitai_CV.pdf" download>
     <img src="https://img.shields.io/badge/-Download CV as PDF-FF0000?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
   <a href="mailto:hargitai.soma@gmail.com">

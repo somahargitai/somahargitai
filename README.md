@@ -5,7 +5,7 @@
 📍 Berlin, Germany  
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 5px;">
-  <a href="Soma_Hargitai_CV.PDF">
+  <a href="Soma_Hargitai_CV.pdf">
     <img src="https://img.shields.io/badge/-CV PDF-4285F4?style=flat-square&logo=markdown&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/somahargitai/">
